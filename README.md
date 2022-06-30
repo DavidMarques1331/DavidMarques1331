@@ -51,7 +51,6 @@
 <br clear="both">
 
 <img href="https://raw.githubusercontent.com/DavidMarques1331/DavidMarques1331/blob/output/snake.svg" alt="Snake animation" />
-<img href="https://raw.githubusercontent.com/DavidMarques1331/DavidMarques1331/blob/output/github-contribution-grid-snake.gif" alt="Snake animation" />
 
 ###
 
