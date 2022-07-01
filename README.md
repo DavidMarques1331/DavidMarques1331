@@ -1,7 +1,6 @@
-<h2 align="center">Hi 👋! My name is David Marques and I'm a Software Developer, from Paraná, Brazil.</h2>
+<h2 align="center">Hi 👋! My name is David Marques and I'm a Software Developer.</h2>
 
 ###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false&username=Da" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=Da" height="150" alt="languages graph"  />
@@ -50,7 +49,7 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/DavidMarques1331/DavidMarques1331/blob/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/DavidMarques1331/DavidMarques1331/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
